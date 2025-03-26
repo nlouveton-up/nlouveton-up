@@ -8,7 +8,7 @@ Je coordonne le master Web éditorial et stratégie UX depuis 2021.
 
 ## Liens utiles
 
-- [Page personnelle] sur le site de mon laboratoire.
+- [Page personnelle](https://cerca.labo.univ-poitiers.fr/membres/nicolas-louveton/) sur le site de mon laboratoire.
 - Profil [HAL](https://cv.hal.science/nicolas-louveton)
 - Profil [Google Scholar](https://scholar.google.com/citations?user=2898Rz8AAAAJ&hl=fr)
 - Profil [ORCID](https://orcid.org/0000-0002-9021-2589)
