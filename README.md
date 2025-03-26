@@ -1,4 +1,4 @@
-
+## Informations générales
 
 Nicolas Louveton (Dr.), enseignant-chercheur (MCF) en psychologie et ergonomie cognitive à l’université de Poitiers, Centre de Recherche sur la Cognition et l’Apprentissage (CeRCA UMR CNRS 7295).
 
