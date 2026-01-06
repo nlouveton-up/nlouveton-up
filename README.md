@@ -1,2 +1,8 @@
 <p><pre align="center">
 <strong>Nicolas Louveton /</strong> <a href="https://cerca.labo.univ-poitiers.fr/membres/nicolas-louveton/">Page institutionnelle</a> </pre></p>
+
+### Cours et scénarios pédagogiques en accès ouvert
+
+[🤖⚖️ -En cours 🔥- Scénarios et compétences éthiques pour les technologies émergentes](https://github.com/nlouveton-up/etique-tech)
+
+[🎮🧠 Player Analytics Workshop - UE303 Interactor Model - Master JMIN, Fall 2022](https://github.com/nlouveton-up/fall2022-master-jmin-ue303-interactormodel-user-analytics)
