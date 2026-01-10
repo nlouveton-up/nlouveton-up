@@ -11,6 +11,4 @@
 
 #### Human activity data collected using Smartphone, Smartwatch and Smartglasses
 
-- [Read the paper](https://hal.science/hal-01586802)
-- [Data on Kaggle](https://www.kaggle.com/datasets/sasanj/human-activity-smart-devices/data)
-- [Data on GitHub](https://github.com/nlouveton-up/An-Open-Dataset-for-Human-Activity-Analysis-using-Smart-Devices)
+[Read the paper](https://hal.science/hal-01586802) / [Data on Kaggle](https://www.kaggle.com/datasets/sasanj/human-activity-smart-devices/data) / [Data on GitHub](https://github.com/nlouveton-up/An-Open-Dataset-for-Human-Activity-Analysis-using-Smart-Devices)
