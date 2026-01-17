@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Nicolas Louveton /</strong> <a href="https://cerca.labo.univ-poitiers.fr/membres/nicolas-louveton/">Page institutionnelle</a> </pre></p>
+<strong>Nicolas Louveton /</strong> <a href="https://cerca.labo.univ-poitiers.fr/membres/nicolas-louveton/">Page institutionnelle</a> <a href!"https://nlouveton-up.github.io"> Page personnelle </a> </pre></p>
 
 ### 📖 Cours et scénarios pédagogiques en accès ouvert
 
