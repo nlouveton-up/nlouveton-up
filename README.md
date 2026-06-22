@@ -3,8 +3,6 @@
 
 ### 📖 Cours et scénarios pédagogiques en accès ouvert
 
-[🤖⚖️ -En cours 🔥- Scénarios et compétences éthiques pour les technologies émergentes](https://github.com/nlouveton-up/etique-tech)
-
 [🎮🧠 Player Analytics Workshop - UE303 Interactor Model - Master JMIN, Fall 2022](https://github.com/nlouveton-up/fall2022-master-jmin-ue303-interactormodel-user-analytics)
 
 ---
